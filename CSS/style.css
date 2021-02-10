@@ -13,7 +13,7 @@
 .fro{
 	color:#3D58A6;
 	font-size: 30px
-	
+
 	}
 	h1{
 		border-top: solid;
@@ -29,4 +29,18 @@ p{
 }
 .img2{
 	margin-left: 70px
+}
+hr{
+	color: #707070;
+	margin-top:100px
+}
+a{
+	font-weight: bold;
+}
+.wrapper{
+	text-align: center;
+	font-weight: bold;
+}
+.info{
+	margin-left:20px
 }
